@@ -32,7 +32,7 @@ Database Storage: Blog entries are stored in a MongoDB database, allowing for pe
 1. Connecting Flask with MongoDB for Data Storage
 
 ```python
-client = MongoClient("mongodb+srv://marlonmontenegropaz:Montenegro12@datahive.fzhuskp.mongodb.net/")
+client = MongoClient("mongodb+srv://marlonmontenegro:********@datahive.fzhuskp.mongodb.net/")
 app.db = client.MicroBlog
 
 if request.method == "POST":

@@ -1,4 +1,4 @@
-# Python Flask - microBlog Project
+# Python Flask - microblog Project
 
 ### The challenge
 

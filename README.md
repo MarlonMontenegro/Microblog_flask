@@ -1,7 +1,5 @@
 # Python Flask - microBlog Project
 
-## Overview
-
 ### The challenge
 
 Users should be able to:
@@ -9,7 +7,8 @@ Users should be able to:
 This is a simple blog application built with Flask and MongoDB. Users can add blog entries, which are saved in a MongoDB database and displayed on the main page. The application uses Flask’s templating and routing capabilities, and the blog entries are rendered dynamically in the UI.
 
 Key Features
-Create and View Blog Entries: Users can submit new blog entries that are saved with a timestamp. Each entry is displayed on the home page with the submission date formatted as "Month Day" (e.g., "Oct 30").
+Create and View Blog Entries: Users can submit new blog entries that are saved with a timestamp. Each entry is displayed on the home page with the submission date formatted as "Month Day".
+
 Dynamic Templating: The home.html template is used to display blog entries in a user-friendly format.
 Database Storage: Blog entries are stored in a MongoDB database, allowing for persistence across sessions.
 
@@ -81,7 +80,7 @@ In future projects, I plan to dive deeper into **using Flask with databases** to
 
 ## Author
 
-- Website - [Marlon Montenegro](https://marlonmontenegro.github.io/montenegro-portfolio/)
+- Website - [@Marlon Montenegro](https://marlonmontenegro.github.io/montenegro-portfolio/)
 - Frontend Mentor - [@MarlonMontenegro](https://www.frontendmentor.io/profile/MarlonMontenegro)
 - LinkedIn - [@MarlonMontenegro](https://www.linkedin.com/in/montenergopaz/)
 
